@@ -1,38 +1,30 @@
 {
   "files": {
     "main.css": "/static/css/main.c7f060b6.chunk.css",
-    "main.js": "/static/js/main.d0ad4e99.chunk.js",
-    "main.js.map": "/static/js/main.d0ad4e99.chunk.js.map",
+    "main.js": "/static/js/main.646421d5.chunk.js",
+    "main.js.map": "/static/js/main.646421d5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.47595eff.js",
     "runtime-main.js.map": "/static/js/runtime-main.47595eff.js.map",
-    "static/js/2.9c472397.chunk.js": "/static/js/2.9c472397.chunk.js",
-    "static/js/2.9c472397.chunk.js.map": "/static/js/2.9c472397.chunk.js.map",
+    "static/js/2.30770ef0.chunk.js": "/static/js/2.30770ef0.chunk.js",
+    "static/js/2.30770ef0.chunk.js.map": "/static/js/2.30770ef0.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.c7f060b6.chunk.css.map": "/static/css/main.c7f060b6.chunk.css.map",
-    "static/js/2.9c472397.chunk.js.LICENSE.txt": "/static/js/2.9c472397.chunk.js.LICENSE.txt",
+    "static/js/2.30770ef0.chunk.js.LICENSE.txt": "/static/js/2.30770ef0.chunk.js.LICENSE.txt",
     "static/media/copy-icon.8eb03ea1.svg": "/static/media/copy-icon.8eb03ea1.svg",
-    "static/media/discord.10c3485c.svg": "/static/media/discord.10c3485c.svg",
-    "static/media/email.e78adde3.svg": "/static/media/email.e78adde3.svg",
-    "static/media/facebook.9a0f14fc.svg": "/static/media/facebook.9a0f14fc.svg",
     "static/media/footer-near-logo.2d4a6e76.svg": "/static/media/footer-near-logo.2d4a6e76.svg",
-    "static/media/instagram.de28769a.svg": "/static/media/instagram.de28769a.svg",
     "static/media/link-drop-background.7d06707f.svg": "/static/media/link-drop-background.7d06707f.svg",
-    "static/media/linkedin.cbd326bd.svg": "/static/media/linkedin.cbd326bd.svg",
     "static/media/rarity-common.c156c166.svg": "/static/media/rarity-common.c156c166.svg",
     "static/media/rarity-rare.355ec026.svg": "/static/media/rarity-rare.355ec026.svg",
     "static/media/rarity-super-rare.383d07f3.svg": "/static/media/rarity-super-rare.383d07f3.svg",
     "static/media/rarity-uncommon.df7f70d0.svg": "/static/media/rarity-uncommon.df7f70d0.svg",
     "static/media/rarity-very-rare.681bd7e2.svg": "/static/media/rarity-very-rare.681bd7e2.svg",
     "static/media/social-face.1e1c5d3d.svg": "/static/media/social-face.1e1c5d3d.svg",
-    "static/media/social-twitter.f8b88ebe.svg": "/static/media/social-twitter.f8b88ebe.svg",
-    "static/media/telegram.6f0d4136.svg": "/static/media/telegram.6f0d4136.svg",
-    "static/media/twitter.830c0cc6.svg": "/static/media/twitter.830c0cc6.svg",
-    "static/media/wechat.b73e171e.svg": "/static/media/wechat.b73e171e.svg"
+    "static/media/social-twitter.f8b88ebe.svg": "/static/media/social-twitter.f8b88ebe.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.47595eff.js",
-    "static/js/2.9c472397.chunk.js",
+    "static/js/2.30770ef0.chunk.js",
     "static/css/main.c7f060b6.chunk.css",
-    "static/js/main.d0ad4e99.chunk.js"
+    "static/js/main.646421d5.chunk.js"
   ]
 }
